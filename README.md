@@ -1,5 +1,4 @@
 # Lynn-Mwangi-Profile
-Get to know me
 ## Hi there, I'm Lynn 👋
 
 <div align="center">
